@@ -1,0 +1,4 @@
+## Sends command to new detached screen
+
+screen -AmdS <screenname> <command>
+
